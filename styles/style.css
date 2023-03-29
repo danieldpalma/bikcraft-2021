@@ -1,0 +1,59 @@
+@import './global/global.css';
+@import './utilidades/cores.css';
+@import './utilidades/animacao.css';
+@import './utilidades/tipografia.css';
+
+/* Utilidades */
+@import './utilidades/componentes.css';
+
+@import './utilidades/formulario.css';
+
+@import './global/header.css';
+
+/* Home */
+@import './home/introducao.css';
+
+/* Bicicletas - Home */
+@import './bicicletas/bicicletas-lista.css';
+
+/* Tecnologia - Home */
+@import './home/tecnologia.css';
+
+/* Parceiros - Home */
+@import './home/parceiros.css';
+
+/* Depoimento - Home */
+@import './home/depoimento.css';
+
+/* Seguros - Home */
+@import './seguros/seguros.css';
+
+/* Termos */
+@import './termos/termos.css';
+
+/* Bicicletas */
+@import './bicicletas/bicicletas.css';
+
+/* Vantagens - Seguros */
+@import './seguros/vantagens.css';
+
+/* Perguntas - Seguros */
+@import './seguros/perguntas.css';
+
+/* Bicicleta */
+@import './bicicleta/bicicletas.css';
+
+/* Seguro - Bicicleta*/
+@import './bicicleta/seguro.css';
+
+/* Contato */
+@import './contato/contato.css';
+
+/* Lojas - Contato */
+@import './contato/lojas.css';
+
+/* Orçamento */
+@import './orcamento/orcamento.css';
+
+/* Footer - Home */
+@import './global/footer.css';
